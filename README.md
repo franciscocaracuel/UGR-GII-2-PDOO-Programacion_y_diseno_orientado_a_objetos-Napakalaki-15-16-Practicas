@@ -1,2 +1,11 @@
-# UGR-GII-2-PDOO-Programacion_y_diseno_orientado_a_objetos-Napakalaki-15-16-Practicas
-Prácticas de la asignatura PDOO (2 curso) realizadas en la ETSIIT, UGR en el curso 2015/2016 en Java y Ruby 
+# Prácticas PDOO - 2º - UGR - ETSIIT - GII - PDF - Java y Ruby
+
+Prácticas realizadas en la asignatura PDOO (Programación y diseño orientado a objetos) del grado en Ingeniería Informática en el curso 2014/2015, UGR.
+
+## Autor
+
+Francisco Javier Caracuel Beltrán
+
+fjcb312@gmail.com
+
+GNU General Public License v3.0
